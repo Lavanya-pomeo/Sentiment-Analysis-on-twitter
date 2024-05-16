@@ -15,6 +15,7 @@ testing dataset
 https://github.com/Lavanya-pomeo/Sentiment-Analysis-on-twitter/blob/main/test_tweets_anuFYb8.csv
 
 training dataset
+https://github.com/Lavanya-pomeo/Sentiment-Analysis-on-twitter/blob/main/train_E6oV3lV.csv
 
 
 NOTEBOOK : Jupyter notebooks containing code for data preprocessing, model training, and evaluation.
