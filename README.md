@@ -9,10 +9,9 @@ This repository contains code and resources for sentiment analysis using various
 Sentiment analysis, also known as opinion mining, is a natural language processing task that involves classifying text data into different sentiment categories. In this project, we explore different machine learning models and techniques to perform sentiment analysis on textual data.
 
 ## Contents
-DATA : Contains datasets used for training and testing the sentiment analysis models
+SOURCE FILE  : Contains datasets used for training and testing the sentiment analysis models
 
-testing dataset  
-https://github.com/Lavanya-pomeo/Sentiment-Analysis-on-twitter/blob/main/test_tweets_anuFYb8.csv
+testing dataset   https://github.com/Lavanya-pomeo/Sentiment-Analysis-on-twitter/blob/main/test_tweets_anuFYb8.csv
 
 training dataset
 https://github.com/Lavanya-pomeo/Sentiment-Analysis-on-twitter/blob/main/train_E6oV3lV.csv
@@ -20,7 +19,6 @@ https://github.com/Lavanya-pomeo/Sentiment-Analysis-on-twitter/blob/main/train_E
 
 NOTEBOOK : Jupyter notebooks containing code for data preprocessing, model training, and evaluation.
 
-SOURCE FILE : Source code files for preprocessing, training, and evaluating models.
 
 README.md : Overview and instructions for running the project.
 
